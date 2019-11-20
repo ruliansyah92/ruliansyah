@@ -4,3 +4,4 @@ Harus menguasai :
 - CSS
 - JavaScript
 - PHP
+- C/C++
