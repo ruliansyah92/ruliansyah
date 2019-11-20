@@ -1,0 +1,6 @@
+Target tahun 2019-2020
+Harus menguasai :
+- HTML
+- CSS
+- JavaScript
+- PHP
